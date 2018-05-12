@@ -1,4 +1,8 @@
 _repo: Antologia-portorriquena-Prosa-y-verso_47184
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47184-h/images/cover.jpg
 creator:
   author:
     agent_name: Fernández Juncos, Manuel
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44174
     wikipedia: http://es.wikipedia.org/wiki/Manuel_Fern%C3%A1ndez_Juncos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47184#Antologia-portorriquena-Prosa-y-verso
 gutenberg_issued: '2014-10-23'
 gutenberg_type: Text
 identifiers:
